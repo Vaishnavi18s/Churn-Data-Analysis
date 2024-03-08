@@ -53,6 +53,13 @@ Replace "path/to/telecom-churn-analysis-shiny" with the actual path to the clone
 - __Scatter Plot:__ Visualize the relationship between two selected variables.
   
 ## Screen Shots:
+![IMG-20240308-WA0062](https://github.com/Vaishnavi18s/Churn-Data-Analysis/blob/main/IMG-20240308-WA0062.jpg)
+![IMG-20240308-WA0063](https://github.com/Vaishnavi18s/Churn-Data-Analysis/blob/main/IMG-20240308-WA0063.jpg)
+![IMG-20240308-WA0064](https://github.com/Vaishnavi18s/Churn-Data-Analysis/blob/main/IMG-20240308-WA0064.jpg)
+![IMG-20240308-WA0065](https://github.com/Vaishnavi18s/Churn-Data-Analysis/blob/main/IMG-20240308-WA0065.jpg)
+![IMG-20240308-WA0066](https://github.com/Vaishnavi18s/Churn-Data-Analysis/blob/main/IMG-20240308-WA0066.jpg)
+![WhatsApp Image 2024-03-08 at 23.49.01_bb3f8c96](https://github.com/Vaishnavi18s/Churn-Data-Analysis/blob/main/WhatsApp%20Image%202024-03-08%20at%2023.49.01_bb3f8c96.jpg)
+![WhatsApp Image 2024-03-08 at 23.49.56_4b43417e](https://github.com/Vaishnavi18s/Churn-Data-Analysis/blob/main/WhatsApp%20Image%202024-03-08%20at%2023.49.56_4b43417e.jpg)
 ## Contributors
 -[Vaishnavi Sharma](https://github.com/Vaishnavi18s)
 
