@@ -24,46 +24,19 @@ install.packages("dplyr")
 install.packages("plotly")
 install.packages("shinythemes")
 ```
-## Clone the repository
+### Installation:
+1. Clone the repository:
+```
 git clone https://github.com/Vaishnavi18s/telecom-churn-analysis-shiny.git
 cd telecom-churn-analysis-shiny
-
-# Run the Shiny app
+```
+# Run the Shiny app:
+```
 library(shiny)
 runApp("path/to/telecom-churn-analysis-shiny")
-
+```
 Replace "path/to/telecom-churn-analysis-shiny" with the actual path to the cloned repository.
 
 ## Screen Shots:
-## Data Source
 
-The project uses Zomato restaurant data, which is loaded from a CSV file. Ensure that the CSV file (`data.csv`) is available at the specified location in the code. The data is cleaned and processed to prepare it for visualization.
 
-# Load your telecom customer churn dataset in CSV format. 
-# Update the path in the read.csv function in the app.R file.
-
-data <- read.csv("path/to/your/dataset.csv")
-
-# Run the Shiny app using the instructions provided in the Installation section.
-
-# Explore different tabs and plots to analyze customer churn based on selected variables.
-
-## Features
-
-### Bar Chart: 
-Visualize the distribution of customer churn based on selected variables.
-
-### 3D Scatter Plot: 
-Explore the relationship between three selected variables in a 3D scatter plot.
-
-### Clustered Bar Chart: 
-Compare the distribution of customer churn across different categories.
-
-### Heatmap: 
-Analyze the density of customer churn based on two selected variables.
-
-### Line Chart: 
-Understand the trend of customer churn over a selected variable.
-
-### Scatter Plot: 
-Visualize the relationship between two selected variables.
